@@ -25,14 +25,10 @@ Sistema de gestión por consola para un hospital veterinario, desarrollado en Py
 - Generación de **facturas** con cálculo automático de IVA (19%)
 - Tres **métodos de pago**: efectivo, tarjeta de crédito/débito y transferencia bancaria
 ---
-
+---
 ## Diagrama UML
 
-```
 [Diagram_UML.png](https://github.com/parramlaurac/SistemaGestionHospitalVeterinario_/blob/main/Diagram_UML.png)
-
-```
-
 
 ---
 
