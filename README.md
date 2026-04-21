@@ -1,4 +1,4 @@
-# Sistema de Gestión - Hospital Veterinario
+#         Sistema de Gestión - Hospital Veterinario
 
 Sistema de gestión por consola para un hospital veterinario, desarrollado en Python con principios de Programación Orientada a Objetos (POO). Permite administrar veterinarios, clientes, mascotas, consultas, tratamientos y facturación con múltiples métodos de pago.
 
