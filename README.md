@@ -9,8 +9,7 @@ Sistema de gestión por consola para un hospital veterinario, desarrollado en Py
 ## Tabla de contenido
 
 - [Características](#características)
-- [Diagrama de clases](#diagrama-de-clases)
-- [Instalación y uso](#instalación-y-uso)
+- [Diagrama UML](#diagrama-UML)
 - [Menú principal](#menú-principal)
 - [Flujo de uso recomendado](#flujo-de-uso-recomendado)
 - [Conceptos de POO aplicados](#conceptos-de-poo-aplicados)
@@ -30,6 +29,7 @@ Sistema de gestión por consola para un hospital veterinario, desarrollado en Py
 ## Diagrama UML
 
 ```
+![Diagrama de clases UML](Diagram_UML.png)
 
 ```
 
@@ -90,5 +90,8 @@ Para un uso correcto del sistema, se recomienda seguir este orden:
 
 - El IVA aplicado en la facturación es del **19%**, definido como constante de clase en `Factura.IMPUESTO`.
 - Los pagos con tarjeta solicitan los **últimos 4 dígitos** para confirmar el instrumento de pago.
+- Los pagos por transferencia solicitan el **nombre del banco** emisor.
+
+
 - Los pagos por transferencia solicitan el **nombre del banco** emisor.
 
