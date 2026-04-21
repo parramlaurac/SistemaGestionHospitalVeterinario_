@@ -30,6 +30,8 @@ Sistema de gestión por consola para un hospital veterinario, desarrollado en Py
 
 [Diagram_UML.png](https://github.com/parramlaurac/SistemaGestionHospitalVeterinario_/blob/main/Diagram_UML.png)
 
+<img width="631" height="595" alt="Diagram_UML" src="https://github.com/user-attachments/assets/b434d5f0-7dd7-4b15-a64e-b8e2fd573b72" />
+
 ---
 
 ## Menú principal
