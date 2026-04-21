@@ -87,7 +87,3 @@ Para un uso correcto del sistema, se recomienda seguir este orden:
 - El IVA aplicado en la facturación es del **19%**, definido como constante de clase en `Factura.IMPUESTO`.
 - Los pagos con tarjeta solicitan los **últimos 4 dígitos** para confirmar el instrumento de pago.
 - Los pagos por transferencia solicitan el **nombre del banco** emisor.
-
-
-- Los pagos por transferencia solicitan el **nombre del banco** emisor.
-
