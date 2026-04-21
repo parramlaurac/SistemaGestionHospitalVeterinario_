@@ -29,7 +29,7 @@ Sistema de gestión por consola para un hospital veterinario, desarrollado en Py
 ## Diagrama UML
 
 ```
-![Diagrama de clases UML](Diagram_UML.png)
+![Diagrama UML](Diagram_UML.png)
 
 ```
 
